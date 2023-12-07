@@ -10,3 +10,4 @@ Install PyQt5 and PyQtWebEngine by running: pip install PyQt5 PyQtWebEngine
 
 That's it, no other thrid-party libraries required.
 Now, just run the script/exe, and it should work.
+The exe should run regardless of whether you have the libraries installed or not, but you should still install them to make sure :)
