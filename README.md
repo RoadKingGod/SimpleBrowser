@@ -7,5 +7,6 @@ There's also a windows executable version, for people who don't wanna see the co
 Installation
 
 Install PyQt5 and PyQtWebEngine by running: pip install PyQt5 PyQtWebEngine
+
 That's it, no other thrid-party libraries required.
 Now, just run the script/exe, and it should work.
